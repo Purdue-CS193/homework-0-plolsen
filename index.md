@@ -1,3 +1,13 @@
+# Peter's First CS193 Homework
+
+### Favorite Things about CS193
+
+- I got to create a Github account with a good username!
+- The classroom is nowhere near any of my other classes, so I get to explore more of casmpus!
+- Even though the classroom IS far away, I don't have any other classes before it so I don't have to rush to class!
+- The online class section is optional, meaning I don't have 4 classes on a Thursday!
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
