@@ -35,3 +35,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Fun Fact
+
+I do not want to directly edit the content of this website, so I can safely refer back to the information here. So I'm just going to edit below!
+
+### Another Fun Fact
+
+Tony Hawk learned how to skate in boarding school!
+This isn't true, but it's funny, so surely this should be put up onto the internet!
